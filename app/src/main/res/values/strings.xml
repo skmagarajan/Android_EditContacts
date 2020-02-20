@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proj1</string>
+    <string name="welcome">Welcome</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+    <string name="enter_name_below">Enter Name Below</string>
+</resources>
